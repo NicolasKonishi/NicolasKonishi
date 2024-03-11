@@ -1,6 +1,6 @@
 ### Hello world! 👋
 
-<img align="left" src="https://img.shields.io/static/v1?label=Overview&message=Nicolas&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img align="right" src="https://img.shields.io/static/v1?label=Overview&message=Nicolas&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 ### Sobre mim
 
