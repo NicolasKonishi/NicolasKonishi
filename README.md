@@ -9,6 +9,9 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
   <img align="center" alt="nicolas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/>
+  <img align="center" alt="Rafa-Csharp" height="30" width="30" 
+    src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java"/>
+  
 </div>
 
 -->
