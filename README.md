@@ -29,7 +29,7 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
 ##
 
 <div> 
-  <p align="left">
+  <p align="right">
   Onde me encontrar: ⤵️
 </p>
   <a href = "mailto:kenzonicolas8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
