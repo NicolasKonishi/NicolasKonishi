@@ -4,9 +4,7 @@ Olá, eu sou Nicolas e programação é a minha paixão. Estou aprendendo a prog
 
 Atualmente estou em busca do meu primeiro emprego como programador, pois quero usar as minhas habilidades, crescer profissionalmente e fazer a diferença.Sou dedicado, criativo, curioso e colaborativo.Me adapto bem a diferentes situações e desafios.Estou sempre disposto a aprender e aperfeiçoar meu conhecimento.
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Trabalhando na {nome da empresa}<br/> Eu sou desenvolvedor {sua stack}</p>
 <div style="display: inline_block"><br>
@@ -16,6 +14,13 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
     src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java"/>
   <img align="center" alt="nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
 
 ##
 
