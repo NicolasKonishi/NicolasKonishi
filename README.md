@@ -2,7 +2,8 @@
 
 ### Olá, meu nome é Nicolas!
 <img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-## Sobre mim
+
+### Sobre mim
 
 Programação é a minha paixão. Estou aprendendo a programar utilizando recursos online e cursando análise e desenvolvimento de sistemas. Estou estudando Java, C#, Banco de Dados e metodologias de desenvolvimento dos softwares. Eu também tenho noções de linguagens de marcação de hipertexto como HTML,CSS e JavaScript.
 
