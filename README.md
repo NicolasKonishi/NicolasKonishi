@@ -1,7 +1,7 @@
 ### Hello world! 
 
 
-### Sobre mim:
+- ### Sobre mim:
 
 - Olá, me chamou Nicolas e programação é a minha paixão. Estou aprendendo a programar utilizando recursos online e cursando análise e desenvolvimento de sistemas. Estou estudando Java, C#, Banco de Dados e metodologias de desenvolvimento dos softwares. Eu também tenho noções de linguagens de marcação de hipertexto como HTML,CSS e JavaScript.
 
