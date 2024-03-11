@@ -7,15 +7,12 @@
 
 Atualmente estou em busca do meu primeiro emprego como programador, pois quero usar as minhas habilidades, crescer profissionalmente e fazer a diferença.
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasKonishi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats" />
-<br>
-  <div style="display: inline_block"><br>
+  
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Csharp" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/>
   <img align="center" alt="-Csharp" height="30" width="30" 
     src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java"/>
   <img align="center" alt="nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<br>
   
 ##
 
