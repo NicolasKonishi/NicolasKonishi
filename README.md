@@ -7,7 +7,7 @@
 
 Atualmente estou em busca do meu primeiro emprego como programador, pois quero usar as minhas habilidades, crescer profissionalmente e fazer a diferença.
       <img
-        align="right"
+        align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasKonishi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats" />
 
