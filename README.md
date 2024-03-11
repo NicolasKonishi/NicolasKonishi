@@ -7,7 +7,13 @@
 
 Atualmente estou em busca do meu primeiro emprego como programador, pois quero usar as minhas habilidades, crescer profissionalmente e fazer a diferença.Sou dedicado, criativo, curioso e colaborativo.Me adapto bem a diferentes situações e desafios.Estou sempre disposto a aprender e aperfeiçoar meu conhecimento.
 
-
+ </p>
+      <img
+        align="right"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasKonishi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
   <div style="display: inline_block"><br>
  
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -17,13 +23,7 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
   <img align="center" alt="nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <br>
   
- </p>
-      <img
-        align="right"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasKonishi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
+
     
 
 ##
