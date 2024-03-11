@@ -14,6 +14,8 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
         alt="Github Stats" />
     </td>
   <div style="display: inline_block"><br>
+
+ ## 
  
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Csharp" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/>
