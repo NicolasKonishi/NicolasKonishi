@@ -23,7 +23,6 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
   <img align="center" alt="nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <br>
   
-1
 ##
 
 <div> 
