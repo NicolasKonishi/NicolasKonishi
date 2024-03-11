@@ -1,5 +1,7 @@
 
-<p><h1 >Hello world!</h1> <img float: right margin-right: 10px align="right" width="48" height="48" src="https://img.icons8.com/color/48/code.png" alt="code"/></p>
+###Hello world! 
+
+<img align="right" width="48" height="48" src="https://img.icons8.com/color/48/code.png" alt="code"/>
 
 ### Sobre mim
 
