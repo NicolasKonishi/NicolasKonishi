@@ -8,7 +8,7 @@
 Atualmente estou em busca do meu primeiro emprego como programador, pois quero usar as minhas habilidades, crescer profissionalmente e fazer a diferença.
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasKonishi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats" />
-
+<br>
 <p>
   <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
