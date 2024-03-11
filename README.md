@@ -32,8 +32,5 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
 </p>
   <a href = "mailto:kenzonicolas8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nicolas-onishi-b893b6212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href = "https://github.com/NicolasKonishi/NicolasKonishi"><img src="https://img.shields.io/github/followers/iuricode?label=follow&style=social&logo=gmail&logoColor=white" target="_blank"></a>
-
-  [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/NicolasKonishi/NicolasKonishi)
 </div>
 
