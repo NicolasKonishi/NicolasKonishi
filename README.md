@@ -14,6 +14,7 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
     src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java"/>
   <img align="center" alt="nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+##
  <td>
       <img
         align="left"
@@ -29,5 +30,3 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
   <a href="https://www.linkedin.com/in/nicolas-onishi-b893b6212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-
--->
