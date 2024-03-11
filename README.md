@@ -3,6 +3,12 @@
 Olá, eu sou Nicolas e programação é a minha paixão. Estou aprendendo a programar utilizando recursos online e cursando análise e desenvolvimento de sistemas. Estou estudando Java, C#, Banco de Dados e metodologias de desenvolvimento dos softwares. Eu também tenho noções de linguagens de marcação de hipertexto como HTML,CSS e JavaScript.
 
 Atualmente estou em busca do meu primeiro emprego como programador, pois quero usar as minhas habilidades, crescer profissionalmente e fazer a diferença.Sou dedicado, criativo, curioso e colaborativo.Me adapto bem a diferentes situações e desafios.Estou sempre disposto a aprender e aperfeiçoar meu conhecimento.
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<p>Trabalhando na {nome da empresa}<br/> Eu sou desenvolvedor {sua stack}</p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Csharp" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/>
