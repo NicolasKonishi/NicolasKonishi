@@ -11,8 +11,7 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
       <img
         align="right"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasKonishi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
+        alt="Github Stats" />
     </td>
   <div style="display: inline_block"><br>
  
