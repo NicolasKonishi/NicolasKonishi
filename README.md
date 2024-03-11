@@ -14,6 +14,9 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
     src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java"/>
   <img align="center" alt="nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+
+##
+
     <td>
       <img
         align="left"
@@ -21,9 +24,7 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
         alt="Github Stats"
       />
     </td>
-
 ##
-
 <div> 
   <p align="left">
    Informações de contato: ⤵️
