@@ -2,7 +2,7 @@
 ###Hello world! 
 
 
-<p><h3>Sobre mim</h3><img width="30" height="40" src="https://img.icons8.com/color/48/code.png" alt="code"/>
+<p><h2>Sobre mim</h2><img width="30" height="30" src="https://img.icons8.com/color/48/code.png" alt="code"/>
 </p> 
 
 Olá, me chamou Nicolas e programação é a minha paixão. Estou aprendendo a programar utilizando recursos online e cursando análise e desenvolvimento de sistemas. Estou estudando Java, C#, Banco de Dados e metodologias de desenvolvimento dos softwares. Eu também tenho noções de linguagens de marcação de hipertexto como HTML,CSS e JavaScript.
