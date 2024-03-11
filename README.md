@@ -1,5 +1,5 @@
 ### Hello world! 
-<div <img align="right" width="48" height="48" src="https://img.icons8.com/color/48/code.png" alt="code"/>
+<img align="right" width="48" height="48" src="https://img.icons8.com/color/48/code.png" alt="code"/>
 
 ### Sobre mim
 
