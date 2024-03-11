@@ -23,13 +23,11 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
   <img align="center" alt="nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <br>
   
-
-    
-
+1
 ##
 
 <div> 
-  <p align="right">
+  <p align="left">
   Onde me encontrar: ⤵️
 </p>
   <a  href = "mailto:kenzonicolas8@gmail.com"><img align="right" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
