@@ -1,5 +1,6 @@
 ### Hello world! 👋
-Olá, eu sou Nicolas e programação é a minha paixão. Estou aprendendo a programar utilizando recursos online e cursando análise e desenvolvimento de sistemas. Estou estudando Java, C#, Banco de Dados e metodologias de desenvolvimento dos softwares. Eu também tenho noções de linguagens de marcação de hipertexto como HTML,CSS e JavaScript.
+**Sobre Mim*
+Sou Nicolas e programação é a minha paixão. Estou aprendendo a programar utilizando recursos online e cursando análise e desenvolvimento de sistemas. Estou estudando Java, C#, Banco de Dados e metodologias de desenvolvimento dos softwares. Eu também tenho noções de linguagens de marcação de hipertexto como HTML,CSS e JavaScript.
 
 Atualmente estou em busca do meu primeiro emprego como programador, pois quero usar as minhas habilidades, crescer profissionalmente e fazer a diferença.Sou dedicado, criativo, curioso e colaborativo.Me adapto bem a diferentes situações e desafios.Estou sempre disposto a aprender e aperfeiçoar meu conhecimento.
 
@@ -11,6 +12,7 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
         alt="Github Stats"
       />
     </td>
+   **Ferramentas de desenvolvimento**
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Csharp" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/>
@@ -18,6 +20,13 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
     src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java"/>
   <img align="center" alt="nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+
 
 ##
 
