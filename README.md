@@ -5,8 +5,6 @@
  Olá, me chamou Nicolas e programação é a minha paixão. Estou estudando Java, C#, Banco de Dados e metodologias de desenvolvimento dos softwares.
 
 Atualmente estou em busca do meu primeiro emprego como programador, pois quero usar as minhas habilidades, crescer profissionalmente e fazer a diferença.
-
-
 <img align="right" height="211" width="375" src="https://www.omgubuntu.co.uk/wp-content/uploads/2016/10/digitalocean-penguin-linux-wallpaper.jpg">
 
 <div style="display: inline_block"><br>
