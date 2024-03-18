@@ -11,8 +11,6 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
 <img align="right" height="211" width="375" src="https://www.omgubuntu.co.uk/wp-content/uploads/2016/10/digitalocean-penguin-linux-wallpaper.jpg">
 <div style="display: inline_block"><br>
 
-##
- 
  ### Meu aprendizado:
  
   <img align="center" alt="Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
