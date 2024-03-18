@@ -13,7 +13,7 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
  
  ### Meu aprendizado:
  
-  <img align="left" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
+  <img align="left" height="40" width="50" margin="0" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
   <img align="left" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
   <img align="left" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
   <img align="left" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/>
