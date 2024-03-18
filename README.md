@@ -6,7 +6,7 @@
  Olá, me chamou Nicolas e programação é a minha paixão. Estou estudando Java, C#, Banco de Dados e metodologias de desenvolvimento dos softwares.
 
 Atualmente estou em busca do meu primeiro emprego como programador, pois quero usar as minhas habilidades, crescer profissionalmente e fazer a diferença.
-<p>My learning </p>
+<h3>My learning :</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
   <img align="center" alt="Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
