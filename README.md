@@ -8,15 +8,15 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
 
 >“Não busque elogios. Procure as críticas.” -Paul Arden
 
-<img align="right" height="211" width="375" src="https://www.omgubuntu.co.uk/wp-content/uploads/2016/10/digitalocean-penguin-linux-wallpaper.jpg">
+<img align="left" height="211" width="375" src="https://www.omgubuntu.co.uk/wp-content/uploads/2016/10/digitalocean-penguin-linux-wallpaper.jpg">
 <div style="display: inline_block"><br>
 
  ### Meu aprendizado:
  
-  <img align="center" alt="Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
-  <img align="center" alt="Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
-  <img align="center" alt="Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL"/>
-  <img align="center" alt="-Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java"/>
+  <img align="rigt" alt="Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
+  <img align="right" alt="Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
+  <img align="right" alt="Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL"/>
+  <img align="right" alt="-Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java"/>
  <div> 
   
  #
