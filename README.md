@@ -9,9 +9,10 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
 >“Não busque elogios. Procure as críticas.” -Paul Arden
 
 <img align="left" height="211" width="375" src="https://www.omgubuntu.co.uk/wp-content/uploads/2016/10/digitalocean-penguin-linux-wallpaper.jpg">
-
- ### Meu aprendizado:
 <div style="display: inline_block"><br>
+ 
+ ### Meu aprendizado:
+ 
   <img align="left" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
   <img align="left" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
   <img align="left" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
