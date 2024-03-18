@@ -8,7 +8,6 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
 
 &nbsp
 <img margin="100px" align="right" height="211" width="375" src="https://www.omgubuntu.co.uk/wp-content/uploads/2016/10/digitalocean-penguin-linux-wallpaper.jpg">
-&nbsp
 
 <div style="display: inline_block"><br>
  <h3 >Meu aprendizado:</h3>
