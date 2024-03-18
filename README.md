@@ -1,5 +1,6 @@
-### Hello world! 👋🌎
 
+
+  <img align="center" alt="Csharp" height="40" width="50" src="https://readme-typing-svg.demolab.com?font=montserrat&pause=1000&color=8347F7&random=false&width=435&lines=Hello+world!+">
 
 ### Sobre mim:
 
