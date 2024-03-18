@@ -9,7 +9,7 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
-  <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
   <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/>
   <img align="center" alt="-Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java"/>
   <img align="center" alt="nicolas-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
