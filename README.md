@@ -23,7 +23,7 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
  
    <p>
     
-  <h3> Onde me encontrar: ⤵️</h3>
+  <h4> Onde me encontrar: ⤵️</h4>
    </p>
    <a  href = "mailto:kenzonicolas8@gmail.com"><img align="left" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nicolas-onishi-b893b6212/" target="_blank"><img align="left" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
