@@ -14,9 +14,9 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
  ### Meu aprendizado:
  
   <img align="left" alt="Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
-  <img align="right" alt="Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
-  <img align="right" alt="Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL"/>
-  <img align="right" alt="-Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java"/>
+  <img align="left" alt="Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
+  <img align="left" alt="Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL"/>
+  <img align="left" alt="-Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java"/>
  <div> 
   
  #
