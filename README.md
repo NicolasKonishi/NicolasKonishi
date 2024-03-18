@@ -20,7 +20,6 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
  <div><br>
 
  #
- *
  
    <p>
   <b align="left">Onde me encontrar: ⤵️ </b>
