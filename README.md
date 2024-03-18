@@ -14,7 +14,8 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
   <img align="center" alt="-Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java"/>
   <img align="center" alt="nicolas-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-
+   <img align="center" alt="nicolas-Js" height="40" width="50" src="
+https://minimalistic-wallpaper.demolab.com/?random=1">
 
 <div> 
  
