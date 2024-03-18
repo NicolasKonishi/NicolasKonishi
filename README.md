@@ -18,7 +18,9 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
   <img align="left" alt="Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL"/>
   <img align="left" alt="-Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java"/>
  <div> 
-  
+
+  <br>
+
  #
  
    <p>
