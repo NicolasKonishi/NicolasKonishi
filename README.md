@@ -6,7 +6,7 @@
 
 Atualmente estou em busca do meu primeiro emprego como programador, pois quero usar as minhas habilidades, crescer profissionalmente e fazer a diferença.
 
-   <img align="right"  src="https://www.omgubuntu.co.uk/wp-content/uploads/2016/10/digitalocean-penguin-linux-wallpaper.jpg">
+   <img align="right" height="375" width="211" src="https://www.omgubuntu.co.uk/wp-content/uploads/2016/10/digitalocean-penguin-linux-wallpaper.jpg">
 
 #
 
