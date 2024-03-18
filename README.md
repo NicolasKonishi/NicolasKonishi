@@ -8,7 +8,7 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
 
 >“Não busque elogios. Procure as críticas.” -Paul Arden
 
-<img align="right" height="211" width="375" margin=100 src="https://www.omgubuntu.co.uk/wp-content/uploads/2016/10/digitalocean-penguin-linux-wallpaper.jpg">
+<img align="right" height="211" width="375" src="https://www.omgubuntu.co.uk/wp-content/uploads/2016/10/digitalocean-penguin-linux-wallpaper.jpg">
 <div style="display: inline_block"><br>
 
  ### Meu aprendizado:
