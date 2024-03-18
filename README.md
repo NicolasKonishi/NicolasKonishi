@@ -11,7 +11,7 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
 
 <div style="display: inline_block"><br>
  
- # Meu aprendizado:
+ ### Meu aprendizado:
  
   <img align="center" alt="Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
   <img align="center" alt="Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
