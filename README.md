@@ -2,7 +2,7 @@
 
 ### Sobre mim:
 
- >Olá, me chamou Nicolas e programação é a minha paixão. Estou estudando Java, C#, Banco de Dados e metodologias de desenvolvimento dos softwares.
+ Olá, me chamou Nicolas e programação é a minha paixão. Estou estudando Java, C#, Banco de Dados e metodologias de desenvolvimento dos softwares.
 
 Atualmente estou em busca do meu primeiro emprego como programador, pois quero usar as minhas habilidades, crescer profissionalmente e fazer a diferença.
 
