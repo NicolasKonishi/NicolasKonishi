@@ -1,5 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=montserrat&pause=1000&color=8347F7&random=false&width=435&lines=Hello+world!+">
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=2500&pause=1000&color=911DF7&random=false&width=435&lines=Hello+world!" alt="Typing SVG">
 ### Sobre mim:
 
  Olá, me chamou Nicolas e programação é a minha paixão. Estou estudando Java, C#, Banco de Dados e metodologias de desenvolvimento dos softwares.
