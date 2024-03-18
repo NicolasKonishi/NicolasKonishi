@@ -11,7 +11,7 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
   <img align="center" alt="Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
   <img align="center" alt="Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
   <img align="center" alt="Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL"/>
-  <img align="center" alt="-Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java"/>
+  <img align="center" alt="-Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java"/>
   <img align="center" alt="nicolas-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <div> 
  
