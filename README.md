@@ -19,7 +19,6 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
   
  #
  
-  <p align="left">
    
   <b>Onde me encontrar: ⤵️ </b>
 </p>
