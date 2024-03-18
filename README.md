@@ -12,7 +12,7 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
 #
 
 <div style="display: inline_block"><br>
- <h3>Meu aprendizado:</h3>
+ <h3 marin-top="2">Meu aprendizado:</h3>
   <img align="center" alt="Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
   <img align="center" alt="Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
   <img align="center" alt="Csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL"/>
