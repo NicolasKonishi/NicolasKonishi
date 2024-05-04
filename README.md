@@ -6,7 +6,7 @@
 
 Atualmente estou em busca do meu primeiro emprego como programador, pois quero usar as minhas habilidades, crescer profissionalmente e fazer a diferença.
 
->“Não busque elogios. Procure as críticas.” -Paul Arden
+>"O segredo de seguir em frente é começar." - Mark Twain
 
 <img align="right" height="211" width="350" src="https://i.pinimg.com/originals/7a/e3/c7/7ae3c7ad104a968dc735871c0bf17608.gif">
 
