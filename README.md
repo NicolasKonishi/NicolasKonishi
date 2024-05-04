@@ -8,7 +8,7 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
 
 >"O segredo de seguir em frente é começar." - Mark Twain
 
-<img align="right" height="211" width="350" src="https://i.pinimg.com/originals/7a/e3/c7/7ae3c7ad104a968dc735871c0bf17608.gif">
+<img align="right" height="422" width="700" src="https://i.pinimg.com/originals/7a/e3/c7/7ae3c7ad104a968dc735871c0bf17608.gif">
 
 
 <h3 align="left">Meu aprendizado </h3>
