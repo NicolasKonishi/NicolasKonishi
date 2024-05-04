@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=2500&pause=1000&color=911DF7&random=false&width=435&lines=Hello+world!" alt="Typing SVG">
 
-### Sobre mim:
+## Sobre mim:
 
  Olá, me chamou Nicolas e programação é a minha paixão. Estou estudando Java, C#, Banco de Dados e metodologias de desenvolvimento dos softwares. 
 
@@ -8,16 +8,18 @@ Atualmente estou em busca do meu primeiro emprego como programador, pois quero u
 
 >“Não busque elogios. Procure as críticas.” -Paul Arden
 
-<img align="left" height="211" width="375" src="https://www.omgubuntu.co.uk/wp-content/uploads/2016/10/digitalocean-penguin-linux-wallpaper.jpg">
-<div style="display: inline_block"><br>
+<img align="right" height="211" width="350" src="https://i.pinimg.com/originals/7a/e3/c7/7ae3c7ad104a968dc735871c0bf17608.gif">
+
+
+<h3 align="left">Meu aprendizado </h3>
+<div align="left"><br>
+  <img  height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
+  <img  height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
+  <img  height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
+  <img  height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"/>
+  <img  height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/>
  
- ### Meu aprendizado:
- 
-  <img align="left" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
-  <img align="left" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
-  <img align="left" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
-  <img align="left" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/>
- <div><br>
+</div>
 
  #
  
