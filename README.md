@@ -11,11 +11,12 @@ Estou estudando back-end e estou buscando melhorar a cada dia estudando Java, C#
 
 <h3 align="left">Linguagens e Ferramentas: </h3>
 <div align="left"><br>
+  
+  <img  height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/>
   <img  height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
   <img  height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
   <img  height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
   <img  height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"/>
-  <img  height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/>
 </div>
 
  **********
