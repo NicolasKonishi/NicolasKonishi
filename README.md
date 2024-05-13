@@ -19,10 +19,11 @@ Estou estudando back-end e estou buscando melhorar a cada dia estudando Java, C#
   <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"/>
   <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg"/>
   <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg"/>
+  <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"/>
+  <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"/>
   <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"/>
   <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"/>
   <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg"/>
-  <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"/>
 </div>
 
   <h3><b> Onde m6 encontrar: ⤵️</h3>
