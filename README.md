@@ -20,6 +20,8 @@ Estou estudando back-end e estou buscando melhorar a cada dia estudando Java, C#
   <img  height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg"/>
   <img  height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg"/>
   <img  height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"/>
+  <img  height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"/>
+  <img  height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg"/>
 </div>
 
  **********
