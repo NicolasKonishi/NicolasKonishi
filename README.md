@@ -22,12 +22,8 @@ Estou estudando back-end e estou buscando melhorar a cada dia estudando Java, C#
   <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"/>
   <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"/>
   <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg"/>
-</di6
+</div>
 
- ********6
-6 
-   <6>
-  6 
   <h3><b> Onde m6 encontrar: ⤵️</h3>
    </p>
    <a  href = "mailto:kenzonicolas8@gmail.com"><img align="left" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
