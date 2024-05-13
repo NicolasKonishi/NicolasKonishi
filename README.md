@@ -12,24 +12,23 @@ Estou estudando back-end e estou buscando melhorar a cada dia estudando Java, C#
 <h3 align="left">Linguagens e Ferramentas: </h3>
 <div align="left"><br>
   
-  <img  height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/>
-  <img  height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
-  <img  height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
-  <img  height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
-  <img  height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"/>
-  <img  height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg"/>
-  <img  height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg"/>
-  <img  height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"/>
-  <img  height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"/>
-  <img  height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg"/>
-</div>
+  <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/>
+  <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
+  <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
+  <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
+  <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"/>
+  <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg"/>
+  <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg"/>
+  <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"/>
+  <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"/>
+  <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg"/>
+</di6
 
- **********
-
- 
-   <p>
-    
-  <h3><b> Onde me encontrar: ⤵️</h3>
+ ********6
+6 
+   <6>
+  6 
+  <h3><b> Onde m6 encontrar: ⤵️</h3>
    </p>
    <a  href = "mailto:kenzonicolas8@gmail.com"><img align="left" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nicolas-onishi-b893b6212/" target="_blank"><img align="left" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
