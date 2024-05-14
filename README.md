@@ -26,7 +26,7 @@ Estou estudando back-end e estou buscando melhorar a cada dia estudando Java, C#
   <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg"/>
 </div>
 
-  <h3><b> Onde m6 encontrar: ⤵️</h3>
+  <h3><b> Onde me encontrar: ⤵️</h3>
    </p>
    <a  href = "mailto:kenzonicolas8@gmail.com"><img align="left" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nicolas-onishi-b893b6212/" target="_blank"><img align="left" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
