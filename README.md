@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá  <img src="https://media3.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif?cid=ecf05e47paay6b31bbe5z0nvmk1ix8xds7p6l59rhhy7x9l6&rid=giphy.gif&ct=g" width="60px"/>, eu sou Nicolas </h1>
+<h1 align="center">Olá, eu sou Nicolas </h1>
 
 Estou estudando back-end e estou buscando melhorar a cada dia estudando Java, C#, Banco de Dados e metodologias de desenvolvimento dos softwares. Atualmente busco meu primeiro emprego como programador, pois quero usar as minhas habilidades, crescer profissionalmente e fazer a diferença.
 
@@ -7,7 +7,7 @@ Estou estudando back-end e estou buscando melhorar a cada dia estudando Java, C#
 
 <img align="right" height="211" width="350" src="https://i.pinimg.com/originals/7a/e3/c7/7ae3c7ad104a968dc735871c0bf17608.gif">
 
-**********
+***
 
 <h3 align="left">Linguagens e Ferramentas: </h3>
 <div align="left"><br>
@@ -25,6 +25,8 @@ Estou estudando back-end e estou buscando melhorar a cada dia estudando Java, C#
   <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"/>
   <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg"/>
 </div>
+
+***
 
   <h3><b> Onde me encontrar: ⤵️</h3>
    </p>
