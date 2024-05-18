@@ -13,7 +13,7 @@ Olá, eu sou Nicolas e estou estudando back-end e estou buscando melhorar a cada
 
   <img align="right" height="190" width="350" src="https://i.pinimg.com/originals/7a/e3/c7/7ae3c7ad104a968dc735871c0bf17608.gif">
 
-<h3 align="left">Linguagens e Ferramentas: </h3>
+<h3 align="left">Linguagens e Ferramentas: 🛠 </h3>
 
 <div align="left"><br>
   
