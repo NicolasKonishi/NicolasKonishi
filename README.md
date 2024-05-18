@@ -1,5 +1,8 @@
 <a align= "center" href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=montserrat&weight=800&size=34&duration=4000&pause=1000&color=4700F7&random=false&width=435&lines=Hello+World!" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=montserrat&weight=800&size=34&duration=4000&pause=1000&color=4700F7&random=false&width=435&lines=Hello+World!" alt="Typing SVG" />
+</a>
+
+
 
 Olá, eu sou Nicolas e estou estudando back-end e estou buscando melhorar a cada dia estudando Java, C#, Banco de Dados e metodologias de desenvolvimento dos softwares. Atualmente busco meu primeiro emprego como programador, pois quero usar as minhas habilidades, crescer profissionalmente e fazer a diferença.
 
