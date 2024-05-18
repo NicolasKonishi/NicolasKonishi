@@ -4,7 +4,7 @@
 
 
 
-Olá, eu sou Nicolas e estou estudando back-end e estou buscando melhorar a cada dia estudando Java, C#, Banco de Dados e metodologias de desenvolvimento dos softwares. Atualmente busco meu primeiro emprego como programador, pois quero usar as minhas habilidades, crescer profissionalmente e fazer a diferença.
+Olá, eu sou Nicolas e estou estudando back-end e busco melhorar a cada dia estudando Java, C#, Banco de Dados e metodologias de desenvolvimento dos softwares. Atualmente busco meu primeiro emprego como programador, pois quero usar as minhas habilidades, crescer profissionalmente e fazer a diferença.
 
 >"O segredo de seguir em frente é começar." - Mark Twain
 
