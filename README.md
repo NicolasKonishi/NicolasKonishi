@@ -8,11 +8,13 @@ Olá, eu sou Nicolas e estou estudando back-end e estou buscando melhorar a cada
 
 >"O segredo de seguir em frente é começar." - Mark Twain
 
-<img align="right" height="290" width="500" src="https://i.pinimg.com/originals/7a/e3/c7/7ae3c7ad104a968dc735871c0bf17608.gif">
-
 ***
 
+
+  <img align="right" height="190" width="350" src="https://i.pinimg.com/originals/7a/e3/c7/7ae3c7ad104a968dc735871c0bf17608.gif">
+
 <h3 align="left">Linguagens e Ferramentas: </h3>
+
 <div align="left"><br>
   
   <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/>
@@ -27,6 +29,7 @@ Olá, eu sou Nicolas e estou estudando back-end e estou buscando melhorar a cada
   <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"/>
   <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"/>
   <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg"/>
+
 </div>
 
 ***
