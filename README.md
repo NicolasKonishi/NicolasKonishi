@@ -17,18 +17,18 @@ Olá, eu sou Nicolas e estou estudando back-end e estou buscando melhorar a cada
 
 <div align="left"><br>
   
-  <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/>
-  <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
-  <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
-  <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
-  <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"/>
-  <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg"/>
-  <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg"/>
-  <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"/>
-  <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"/>
-  <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"/>
-  <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"/>
-  <img  height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg"/>
+  <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/>
+  <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
+  <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
+  <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
+  <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"/>
+  <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg"/>
+  <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg"/>
+  <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"/>
+  <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"/>
+  <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"/>
+  <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"/>
+  <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg"/>
 
 </div>
 
