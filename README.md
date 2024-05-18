@@ -8,7 +8,7 @@ Olá, eu sou Nicolas e estou estudando back-end e estou buscando melhorar a cada
 
 >"O segredo de seguir em frente é começar." - Mark Twain
 
-<img align="right" height="211" width="350" src="https://i.pinimg.com/originals/7a/e3/c7/7ae3c7ad104a968dc735871c0bf17608.gif">
+<img align="right" height="322" width="500" src="https://i.pinimg.com/originals/7a/e3/c7/7ae3c7ad104a968dc735871c0bf17608.gif">
 
 ***
 
