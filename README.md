@@ -34,6 +34,10 @@
 
 ***
 
+## Minhas Contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=1asm1n&repo=PIM-III-QUESTIONARIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Paulopaiv/PIM-III-QUESTIONARIO)
+
+
   <h3><b> Onde me encontrar: ⤵️</h3>
    </p>
    <a  href = "mailto:kenzonicolas8@gmail.com"><img align="left" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
