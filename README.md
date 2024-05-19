@@ -35,7 +35,7 @@
 ***
 
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=1asm1n&repo=PIM-III-QUESTIONARIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Paulopaiv/PIM-III-QUESTIONARIO)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Paulopaiv&repo=PIM-III-QUESTIONARIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Paulopaiv/PIM-III-QUESTIONARIO)
 
 
   <h3><b> Onde me encontrar: ⤵️</h3>
