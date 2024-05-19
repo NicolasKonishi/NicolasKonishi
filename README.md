@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=montserrat&weight=800&size=34&duration=4000&pause=1000&color=4700F7&random=false&width=435&lines=Hello+World!" alt="Typing SVG" />
 </a>
 
-<img src="assets/AnimationGIT.gif">
+<img src="assets/AnimationGIT1.gif">
 
 <p align="center"> Olá, me chamo Nicolas e estou estudando back-end. Busco melhorar a cada dia estudando Java, C#, Banco de Dados e metodologias de desenvolvimento dos softwares. Atualmente busco meu primeiro emprego como programador, pois quero usar as minhas habilidades, crescer profissionalmente e fazer a diferença.</p>
 
