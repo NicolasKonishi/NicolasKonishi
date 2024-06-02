@@ -35,9 +35,7 @@
 ***
 
 <div  align="left" >
-  
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nicolasKonishi&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&hide=issues&bg_color=000&title_color=2aa889&text_color=FFF&border_radius=3&border_color=30A3DC&icon_color=30A3DC" alt="GitHub stats">
-  
   </a>
 </div>
 
