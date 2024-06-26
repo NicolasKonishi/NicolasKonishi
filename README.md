@@ -36,10 +36,12 @@
 
  <h3> Minhas Contribuições: </h3>
 <div align="left">
+  
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=NicolasKonishi&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=599cab&title_color=2aa889&text_color=FFF)](
 https://github.com/NicolasKonishi/dio-lab-open-source)
 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=NicolasKonishi&repo=PIM-III-QUESTIONARIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=599cab&title_color=2aa889&text_color=FFF)](https://github.com/Paulopaiv/PIM-III-QUESTIONARIO)
+
 </div>
 
 ***
