@@ -6,7 +6,7 @@
 
 <p align="center"> Olá, me chamo Nicolas e estou estudando back-end. Busco melhorar a cada dia estudando Java, C#, Banco de Dados e metodologias de desenvolvimento dos softwares. Atualmente busco meu primeiro emprego como programador, pois quero usar as minhas habilidades, crescer profissionalmente e fazer a diferença.</p>
 
->"O segredo de seguir em frente é começar." - Mark Twain
+>"A melhor maneira de prever o futuro é inventá-lo." - Alan Kay
 
 ***
 
