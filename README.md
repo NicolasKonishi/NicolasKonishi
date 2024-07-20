@@ -6,14 +6,12 @@
 
 <p align="center"> Olá, me chamo Nicolas e estou estudando back-end. Busco melhorar a cada dia estudando Java, C#, Banco de Dados e metodologias de desenvolvimento dos softwares. Atualmente busco meu primeiro emprego como programador, pois quero usar as minhas habilidades, crescer profissionalmente e fazer a diferença.</p>
 
->"A melhor maneira de prever o futuro é inventá-lo." - Alan Kay
-
-***
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
   <img align="right" height="190" width="350" src="https://i.pinimg.com/originals/7a/e3/c7/7ae3c7ad104a968dc735871c0bf17608.gif">
 
-<h3 align="left">Linguagens e Ferramentas: 🛠 </h3>
+# 💻 Tech Stack:
 
 <div align="left"><br>
   
@@ -34,18 +32,19 @@
 
 ***
 
- <h3> Minhas Contribuições: </h3>
-  
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=NicolasKonishi&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=599cab&title_color=2aa889&text_color=FFF)](
-https://github.com/NicolasKonishi/dio-lab-open-source)
+### 🔝 Top Contributed Repo
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Paulopaiv&repo=PIM-III-QUESTIONARIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=599cab&title_color=2aa889&text_color=FFF)](https://github.com/Paulopaiv/PIM-III-QUESTIONARIO)
+![](https://github-contributor-stats.vercel.app/api?username=NicolaskOnishi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-***
 
-  <h3><b> Onde me encontrar: ⤵️</h3>
+
+## 🌐 Socials:
    </p>
    <a  href = "mailto:kenzonicolas8@gmail.com"><img align="left" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nicolas-onishi-b893b6212/" target="_blank"><img align="left" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
+
+
 
