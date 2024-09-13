@@ -24,8 +24,8 @@
   <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"/>
   <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg"/>
   <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg"/>
-  <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"/>
-  <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"/>
+  <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg"/>
+  <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"/>
   <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"/>
   <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"/>
   <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg"/>
