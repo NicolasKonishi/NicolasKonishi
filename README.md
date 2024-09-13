@@ -18,7 +18,7 @@
 <div align="left"><br>
   
   <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/>
-  <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/javascript.svg">
+  <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
   <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
   <img  height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"/>
