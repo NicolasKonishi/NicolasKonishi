@@ -8,9 +8,6 @@
 
 <br>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
   <img align="right" height="190" width="350" src="https://i.pinimg.com/originals/7a/e3/c7/7ae3c7ad104a968dc735871c0bf17608.gif">
 
 # 💻 Tech Stack:
