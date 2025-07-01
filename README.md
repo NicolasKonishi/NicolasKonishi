@@ -7,7 +7,6 @@
 <p align="center">
   <strong>Olá, eu sou o Nicolas! 👨‍💻</strong><br><br>
   Desenvolvedor em formação, com foco em back-end, comprometido com a evolução contínua por meio de estudos, prática e aprimoramento técnico.<br> Atualmente, dedica-se ao aprofundamento em <strong>Java, C#, bancos de dados relacionais</strong> e às boas práticas no desenvolvimento de software.<br><br>
-Seu objetivo é ingressar no mercado de trabalho como programador, onde poderá aplicar seus conhecimentos, desenvolver-se profissionalmente e contribuir com soluções eficientes e de alto impacto.
 </p>
 </p>
 
