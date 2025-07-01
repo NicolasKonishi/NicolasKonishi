@@ -4,11 +4,12 @@
 
 <img src="assets/2.gif" align="center">
 
-<p align="center">
-  <strong>Olá, eu sou o Nicolas! 👨‍💻</strong><br><br>
-  Desenvolvedor em formação, com foco em back-end, comprometido com a evolução contínua por meio de estudos, prática e aprimoramento técnico.<br> Atualmente, dedica-se ao aprofundamento em <strong>Java, C#, bancos de dados relacionais</strong> e às boas práticas no desenvolvimento de software.<br><br>
+<strong>Sobre</strong><br><br>
+Desenvolvedor em formação, com foco em back-end, comprometido com a evolução contínua por meio de estudos, prática e aprimoramento técnico.<br>
+Atualmente, dedicado ao aprofundamento em <strong>Java, C#, Golang (Go), ASP.NET</strong> e bancos de dados relacionais como <strong>MySQL</strong> e <strong>PostgreSQL</strong>.<br><br>
+Também possui conhecimentos em tecnologias de front-end, como <strong>React</strong> e <strong>JavaScript</strong>, o que amplia sua visão sobre o ciclo completo do desenvolvimento de aplicações.<br><br>
 </p>
-</p>
+
 
 ---
 
