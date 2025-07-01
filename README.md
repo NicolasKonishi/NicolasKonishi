@@ -3,7 +3,7 @@
 </a>
 
 
-<strong>Sobre</strong><br><br>
+<h2>Sobre</h2>
 Desenvolvedor em formação, com foco em back-end, comprometido com a evolução contínua por meio de estudos, prática e aprimoramento técnico.<br>
 Atualmente, dedicado ao aprofundamento em <strong>Java, C#, Golang (Go), ASP.NET</strong> e bancos de dados relacionais como <strong>MySQL</strong> e <strong>PostgreSQL</strong>.<br><br>
 Também possui conhecimentos em tecnologias de front-end, como <strong>React</strong> e <strong>JavaScript</strong>, o que amplia sua visão sobre o ciclo completo do desenvolvimento de aplicações.<br><br>
