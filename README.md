@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=montserrat&weight=800&size=34&duration=4000&pause=1000&color=4700F7&random=false&width=435&lines=Hello+World!" alt="Typing SVG" />
 </a>
 
-<img src="assets/2.gif" align="center">
-
 <strong>Sobre</strong><br><br>
 Desenvolvedor em formação, com foco em back-end, comprometido com a evolução contínua por meio de estudos, prática e aprimoramento técnico.<br>
 Atualmente, dedicado ao aprofundamento em <strong>Java, C#, Golang (Go), ASP.NET</strong> e bancos de dados relacionais como <strong>MySQL</strong> e <strong>PostgreSQL</strong>.<br><br>
