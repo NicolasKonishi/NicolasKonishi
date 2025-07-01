@@ -21,6 +21,7 @@ Também possui conhecimentos em tecnologias de front-end, como <strong>React</st
 
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java"/>
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#"/>
+<img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" alt="Golang"/>
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt=".NET"/>
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring"/>
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL"/>
@@ -33,6 +34,7 @@ Também possui conhecimentos em tecnologias de front-end, como <strong>React</st
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="Visual Studio"/>
 
 </div>
+
 
 ---
 
