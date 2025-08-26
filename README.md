@@ -28,6 +28,8 @@ Também possui conhecimentos em tecnologias de front-end, como <strong>React</st
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React"/>
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" alt="Maven"/>
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" alt="IntelliJ"/>
+<img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PhpStorm-Dark.svg" alt="PhpStorm"/>
+
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="Visual Studio"/>
 
 </div>
