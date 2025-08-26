@@ -19,12 +19,12 @@ Também possui conhecimentos em tecnologias de front-end, como <strong>React</st
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java"/>
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#"/>
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" alt="Golang"/>
+<img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP"/>
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt=".NET"/>
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring"/>
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL"/>
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL"/>
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript"/>
-<img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP"/>
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React"/>
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" alt="Maven"/>
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" alt="IntelliJ"/>
