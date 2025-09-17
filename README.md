@@ -41,7 +41,7 @@ Também possui conhecimentos em tecnologias de front-end, como <strong>React</st
 
 <div align="left">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasKonishi&theme=dark&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasKonishi&theme=dark&show_icons=true)
 
 
 </div>
