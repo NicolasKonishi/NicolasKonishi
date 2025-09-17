@@ -40,8 +40,6 @@ Também possui conhecimentos em tecnologias de front-end, como <strong>React</st
 ## 📊 Estatísticas do GitHub:
 
 <div align="left">
-
-![NicolasKonishi's Stats](https://github-readme-stats.vercel.app/api?username=NicolasKonishi&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
   
 ![NicolasKonishi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasKonishi&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 </div>
