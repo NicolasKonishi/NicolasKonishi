@@ -43,7 +43,7 @@ Também possui conhecimentos em tecnologias de front-end, como <strong>React</st
   
 ![NicolasKonishi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasKonishi&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasKonishi&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasKonishi_icons=true&theme=transparent)
 
 
 </div>
