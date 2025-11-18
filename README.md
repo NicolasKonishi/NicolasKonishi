@@ -1,6 +1,6 @@
 <img align="right" height="190" width="350" src="https://i.pinimg.com/originals/7a/e3/c7/7ae3c7ad104a968dc735871c0bf17608.gif">
 
-# 👋 Olá! Eu sou o Nicolas Onishi
+#  Olá! Eu sou o Nicolas...
 
 Sou desenvolvedor **fullstack**, com foco em **back-end**, apaixonado por tecnologia e comprometido com a evolução contínua por meio de estudos, prática e aprimoramento técnico.
 
