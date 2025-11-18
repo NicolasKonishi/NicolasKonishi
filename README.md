@@ -1,4 +1,3 @@
-Claro, Nicolas! Aqui está uma versão revisada e mais fluida do seu README, com melhorias de clareza, estrutura e estilo — mantendo sua identidade como desenvolvedor fullstack com foco em back-end:
 
 <img align="right" height="190" width="350" src="https://i.pinimg.com/originals/7a/e3/c7/7ae3c7ad104a968dc735871c0bf17608.gif">
 👋 Olá! Eu sou o Nicolas Onishi
