@@ -28,7 +28,7 @@ Estou sempre em busca de novos desafios e oportunidades para crescer como desenv
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring"/>
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL"/>
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL"/>
-<img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite-Dark.svg" alt="SQLite"/>
+<img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="SQLite"/>
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript"/>
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React"/>
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" alt="Maven"/>
