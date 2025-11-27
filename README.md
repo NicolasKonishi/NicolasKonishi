@@ -44,7 +44,6 @@ Estou sempre em busca de novos desafios e oportunidades para crescer como desenv
 
 ![NicolasKonishi's Stats](https://github-readme-stats.vercel.app/api?username=NicolasKonishi&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 
----
 
 ![NicolasKonishi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasKonishi&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 
