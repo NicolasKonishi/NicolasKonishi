@@ -42,7 +42,7 @@ Estou sempre em busca de novos desafios e oportunidades para crescer como desenv
 
 ## 📊 Estatísticas do GitHub:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasKonishi&theme=dark&show_icons=true)
+![NicolasKonishi's Stats](https://github-readme-stats.vercel.app/api?username=NicolasKonishi&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 
 ---
 
