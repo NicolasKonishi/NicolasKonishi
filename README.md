@@ -46,11 +46,7 @@ Estou sempre em busca de novos desafios e oportunidades para crescer como desenv
 
 ---
 
-## 🔝 Repositórios em destaque:
-
-![](https://github-contributor-stats.vercel.app/api?username=NicolaskOnishi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
+![NicolasKonishi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasKonishi&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 
 ## 🌐 Contato:
 
