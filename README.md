@@ -42,8 +42,7 @@ Estou sempre em busca de novos desafios e oportunidades para crescer como desenv
 
 ## 📊 Estatísticas do GitHub:
 
-[![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasKonishi)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasKonishi&hide=contribs,prs)
 ![NicolasKonishi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasKonishi&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 
 ## 🌐 Contato:
