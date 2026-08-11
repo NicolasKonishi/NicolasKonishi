@@ -2,7 +2,7 @@
   <img src="assets/Banner%20Tecnol%C3%B3gico%20Nicolas%20Onishi.png" alt="Banner de Nicolas Onishi" width="100%">
 </div>
 
-# Olá, eu sou Nicolas Kenzo 👋
+# Olá, eu sou Nicolas!
 
 Sou desenvolvedor **full stack**, com foco em **back-end**. Atualmente trabalho principalmente com **Go** e **PHP**, criando aplicações, APIs e soluções integradas a bancos de dados.
 
@@ -10,11 +10,11 @@ Gosto de transformar problemas em soluções simples e funcionais. Estou sempre 
 
 ## Sobre mim
 
-- 💻 Foco atual em desenvolvimento back-end com **Go** e **PHP**
-- 🌐 Experiência com desenvolvimento de aplicações web e APIs
-- 🗄️ Conhecimento em bancos de dados relacionais
-- 🐳 Uso de Docker no desenvolvimento e na organização de ambientes
-- 📚 Em constante evolução como desenvolvedor
+- Foco atual em desenvolvimento back-end com **Go** e **PHP**
+- Experiência com desenvolvimento de aplicações web e APIs
+- Conhecimento em bancos de dados relacionais
+- Uso de Docker no desenvolvimento e na organização de ambientes
+- Em constante evolução como desenvolvedor
 
 ## Tecnologias
 
