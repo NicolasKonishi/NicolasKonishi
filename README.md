@@ -56,7 +56,7 @@ Estou organizando meus principais projetos para apresentá-los aqui. Enquanto is
   <a href="mailto:kenzonicolas8@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-333333?style=flat-square&logo=gmail&logoColor=white" alt="Enviar e-mail">
   </a>
-  <a href="https://www.linkedin.com/in/nicolas-onishi/">
+  <a href="https://www.linkedin.com/in/nicolas-k-onishi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Perfil no LinkedIn">
   </a>
 </p>
